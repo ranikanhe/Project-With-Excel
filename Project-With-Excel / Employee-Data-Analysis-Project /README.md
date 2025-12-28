@@ -102,3 +102,24 @@ It reflects real-world Excel skills suitable for entry-level data analyst and MI
 
 ### 👩‍💻 Author
 **Rani Kanhe**
+
+📧 Email: ranikanhe7@gmail.com 
+🔗 GitHub: https://github.com/ranikanhe
+
+
+# Upload the Image
+# 1) KPI Screenshort
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f8a1e020-c7ac-46ea-b683-447755996401" />
+
+# 2) Charts and Slicers Screenshort
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/33651e9c-7042-4be4-b8b7-d8280725a465" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/65f0db89-a09c-409a-9a8f-d318eca9b19a" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/39cb53e6-4fd4-40a2-86d5-9855ee16f6c4" />
+
+# 3) Dashboard
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/51431a44-c978-41ac-bd46-b7c07d0af690" />
+
+
+
+
+
